@@ -1,0 +1,33 @@
+
+.containerI { 
+    width: 125px; 
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+.containerII { 
+    width: 1150px; 
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+.containerIII { 
+    width: 150px; 
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+.containerIV {
+    width: 1150px; 
+    margin-left: auto;
+    margin-right: auto;
+    opacity: 0,5 ;
+}
+
+.inv {
+    visibility: hidden;
+}
+
+a:focus, a:hover {  
+                            border: 2px solid #transparent;  
+                        }   
